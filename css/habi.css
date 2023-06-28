@@ -1,0 +1,85 @@
+body{
+    background-color: #000000;
+}
+
+.parte-cima{
+    display: flex;
+    margin-top: 9em;
+    margin-left: 5em;
+    justify-content: center;
+}
+
+.div_nome{
+    background-color: #3f3e3e;
+    display: flex;
+    flex-direction: column;
+    padding-right: 30em;
+    margin-right: 3em;
+    margin-left: -7em;
+    border-radius: 10px;
+}
+
+.nome_label{
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 1em;
+    margin-bottom: 10px;
+}
+
+.nome_label1{
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+#nome{
+    padding-right: 20em;
+    background-color: #5e5c5c;
+    margin-bottom: 10px;
+}
+
+#idade{
+    background-color: #5e5c5c;
+}
+
+.img_policial{
+    height: 10em;
+    border-radius: 10px;
+    border: #3f3e3e outset  3px;
+}
+
+.div_habi{
+    
+    padding: 8em 10em;
+    background-color: #3f3e3e;
+    display: flex;
+    margin-top: 5em;
+    margin-left: 22em;
+    margin-right: 25em;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.ul_habi{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.li_habi{
+    color: white;
+    padding: 2em 2em;
+    border-radius: 10px;
+    background-color: red;
+
+    margin-right: 20px;
+   
+}
+
+.buton{
+    background-color: red;
+    color: white;
+}

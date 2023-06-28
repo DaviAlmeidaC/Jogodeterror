@@ -1,0 +1,36 @@
+.div-prin{
+    background-image: url(/imagens/capa_locais_assombrados_brasil_widelg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vw;
+    min-width: 100%;
+}
+
+.dialogo{
+    background-color: rgba(131, 128, 128, 0.6);
+    padding: 1em 1em;
+    max-width: 61vw;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: -12em;
+    color: rgb(75, 19, 19);
+    font-size: 1.3em;
+    font-weight: 600;
+    border: 2px rgb(53, 23, 23) solid;
+    margin-bottom: 4em;
+}
+
+
+
+.button1{
+    height: 2vw;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.212);
+    margin-top: 6vh;
+    margin-left: 55vw;
+   
+}
+
+.img-seguir:hover {
+    cursor: pointer;
+  }
